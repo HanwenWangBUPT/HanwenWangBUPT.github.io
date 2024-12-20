@@ -1,2 +1,1 @@
-homepage
 HanwenWangBUPT.github.io
